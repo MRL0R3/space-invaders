@@ -90,6 +90,15 @@ Classic arcade inspiration: Tomohiro Nishikado’s Space Invaders (1978)
 
 ---
 
+## 📄 License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+This project is licensed under the [MIT License](LICENSE).  
+Feel free to use, modify, and share!
+
+
+---
 ## 🛠 Installation & Setup
 
 ### Prerequisites
