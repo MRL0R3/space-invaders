@@ -14,7 +14,6 @@
 ## 📋 Table of Contents
 
 - [Features](#-features)
-- [Screenshots](#-screenshots)
 - [How to Play](#-how-to-play)
 - [Installation & Setup](#-installation--setup)
 - [Leaderboard](#-leaderboard)
@@ -57,6 +56,37 @@
 | Second Row | 20    |
 | First Row  | 30    |
 | Spaceship  | 75-200 (random) |
+
+---
+
+
+## 🏆 Leaderboard
+
+- Scores and player names are saved to leaderboard.txt in the game directory.
+- Only the highest score per player is kept.
+- View the leaderboard anytime from the main menu.
+
+---
+
+## ❓ FAQ
+Q: The console window is too small / not centered!
+A: The game auto-resizes the console, but you can maximize it manually if needed.
+
+Q: My score isn’t saving!
+A: Make sure you have write permission in the game folder. Check for leaderboard.txt.
+
+Q: The graphics look weird!
+A: Make sure you run it in Windows’ default console. Custom or non-standard terminals may not render correctly.
+
+Q: Can I add more levels or enemies?
+A: Absolutely! The code is organized for easy extension. Add more enemy types, adjust patterns, or create new modes.
+
+---
+
+🙏 Credits
+@MRL0R3 , @mutecopies (main developers)
+
+Classic arcade inspiration: Tomohiro Nishikado’s Space Invaders (1978)
 
 ---
 
