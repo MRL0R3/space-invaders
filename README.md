@@ -110,5 +110,5 @@ Feel free to use, modify, and share!
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/MRL0R3/space-invaders-cpp.git
-   cd space-invaders-cpp
+   git clone https://github.com/MRL0R3/space-invaders.git
+   cd space-invaders
